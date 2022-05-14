@@ -1,27 +1,9 @@
-# React App with Material UI
+# React App using Firebase realtime database
 
-## Create the react app
-create the react app with `npx create-react-app my-app`
+## add Firbase
+`npm install firebase`
 
-## Add Material UI to the project
-info on [https://mui.com/](https://mui.com/)
+## add firebase.js with initialisation code - from console.firbase.com
 
-### [install  with npm](https://mui.com/material-ui/getting-started/installation/#npm)
-`npm install @mui/material @emotion/react @emotion/styled`
-
-### [Roboto font](https://mui.com/material-ui/getting-started/installation/#roboto-font)
-`<link
-  rel="stylesheet"
-  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
-/>
-`
-
-### [Font icons](https://mui.com/material-ui/getting-started/installation/#font-icons)
-`<link
-  rel="stylesheet"
-  href="https://fonts.googleapis.com/icon?family=Material+Icons"
-/>
-`
-### [SVG icons](https://mui.com/material-ui/getting-started/installation/#svg-icons)
-`npm install @mui/icons-material`
+## [read and write data in realtime database](https://firebase.google.com/docs/database/web/read-and-write#web-version-9_1)
 
